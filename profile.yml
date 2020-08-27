@@ -1,0 +1,10 @@
+my:
+    greeting: Hello from profile env
+    port: 4568
+
+db:
+    host: 127.0.0.1
+    port: 5432
+    name: profile
+    user: secret
+    password: secret
