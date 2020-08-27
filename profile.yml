@@ -1,5 +1,5 @@
 my:
-    greeting: Hello from profile env yml git
+    greeting: Environtment Profile
     port: 4568
 
 db:
