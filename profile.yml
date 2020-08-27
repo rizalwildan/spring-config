@@ -1,5 +1,5 @@
 my:
-    greeting: Hello from profile env
+    greeting: Hello from profile env yml
     port: 4568
 
 db:
