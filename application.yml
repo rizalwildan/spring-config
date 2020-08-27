@@ -1,0 +1,10 @@
+my:
+    greeting: Hello World
+    port: 4567
+
+db:
+    host: 127.0.0.1
+    port: 5432
+    name: secret
+    user: secret
+    password: secret
