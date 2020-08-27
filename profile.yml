@@ -1,10 +1,10 @@
 my:
-    greeting: Environtment Profile
+    greeting: Environtment Profile Dev
     port: 4568
 
 db:
     host: 127.0.0.1
     port: 5432
-    name: profile
+    name: profile_dev
     user: secret
     password: secret
